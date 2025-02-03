@@ -1,0 +1,10 @@
+.env
+*.tmp
+*.idea/
+*.vscode/
+__pycache__/
+*.pyc
+*.log
+*.pid
+*.sock
+*.lock
